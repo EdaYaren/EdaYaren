@@ -1,4 +1,9 @@
-# 💫 About Me:
+<p align="center">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" alt="Coding Girl" width="300">
+</p>
+
+
+# 🌈 About Me:
 🎓 I am a graduate of the Statistics Department at Hacettepe University, currently working on improving my skills in data analysis. I use various programming languages and statistical tools to conduct data analyses.<br>🔍 I am interested in machine learning and deep learning algorithms and work on forecasting projects.<br>🛠️ My technical skills include: Programming languages such as Python, MS SQL, R and C#, as well as analytical tools like SPSS, Minitab and KNIME. I also manage my projects and create professional presentations using tools like Git and LaTeX.<br>📊 My areas of interest include data visualization, big data analytics, and artificial intelligence applications.
 
 
