@@ -53,4 +53,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=EdaYaren&icon=5&color=6)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/EdaYaren/EdaYaren/blob/output/github-contribution-grid-snake.gif)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
