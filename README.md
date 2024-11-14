@@ -8,8 +8,8 @@
 
 
 ## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarennozel@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eda-yaren-özel) 
-[![Outlook](https://img.shields.io/badge/-Outlook-blue?style=social&logo=microsoft-outlook&logoColor=0078D4)](mailto:yarennozel@outlook.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://kaggle.com/yarenozel)
 
 
@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![KNIME](https://img.shields.io/badge/KNIME-%23F69900.svg?style=for-the-badge&logo=knime&logoColor=white) 
-![SAS Enterprise Guide](https://img.shields.io/badge/SAS%20Enterprise%20Guide-%231D1D1D.svg?style=for-the-badge&logo=sas&logoColor=blue)
+![SAS Enterprise Guide](https://img.shields.io/badge/SAS%20Enterprise%20Guide-%231D1D1D.svg?style=for-the-badge&logo=sas&logoColor=white)
 
 
 # 📊 GitHub Stats:
